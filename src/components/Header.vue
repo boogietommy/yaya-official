@@ -34,7 +34,7 @@
 
           <div class="navbar-end">
             <div class="navbar-item">
-              <a class="button is-rounded">天猫旗舰店</a>
+              <a class="button is-primary is-rounded is-outlined">天猫旗舰店</a>
             </div>
           </div>
         </div>

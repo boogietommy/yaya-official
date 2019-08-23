@@ -18,6 +18,9 @@ export default {
 <style lang="scss">
 @import "~bulma/sass/utilities/_all";
 
+$navbar-item-hover-color: $primary;
+$navbar-item-hover-background-color: $white;
+
 #app {
   font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
   -webkit-font-smoothing: antialiased;

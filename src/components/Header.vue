@@ -2,8 +2,8 @@
   <div class="header container">
     <nav class="navbar" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
-          <a class="navbar-item" href="https://bulma.io">
-            <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+          <a class="navbar-item" href="/">
+            <img src="@/assets/logo-1.png" width="110" height="38">
           </a>
 
           <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -15,19 +15,19 @@
 
         <div id="navbarBasicExample" class="navbar-menu">
           <div class="navbar-start">
-            <a class="navbar-item">
+            <a href="/" class="navbar-item">
               首页
             </a>
 
-            <a class="navbar-item">
+            <a href="/about" class="navbar-item">
               企业简介
             </a>
 
-            <a class="navbar-item">
+            <a href="/product" class="navbar-item">
               产品展示
             </a>
 
-            <a class="navbar-item">
+            <a href="/contactus" class="navbar-item">
               联系我们
             </a>
           </div>

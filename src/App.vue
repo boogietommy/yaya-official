@@ -21,6 +21,9 @@ export default {
 $navbar-item-hover-color: $primary;
 $navbar-item-hover-background-color: $white;
 
+$footer-background-color: $white-ter;
+$footer-padding: 3rem 1.5rem 1rem;
+
 #app {
   font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
   -webkit-font-smoothing: antialiased;

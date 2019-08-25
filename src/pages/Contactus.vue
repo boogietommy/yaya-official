@@ -33,6 +33,6 @@ export default {
   background-size: cover;
 }
 .contact-content {
-  padding: 5rem 1rem 2.5rem;
+  padding: 3rem 1rem 2.5rem;
 }
 </style>

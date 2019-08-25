@@ -80,7 +80,7 @@ export default {
 }
 
 .about-content {
-  padding: 5rem 1rem 2.5rem;
+  padding: 3rem 1rem 2.5rem;
 
   h1 {
     margin: 3rem 0 0.5rem;

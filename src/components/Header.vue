@@ -34,7 +34,7 @@
 
           <div class="navbar-end">
             <div class="navbar-item">
-              <a class="button is-primary is-rounded is-outlined">天猫旗舰店</a>
+              <a class="button is-primary is-rounded is-outlined" href="https://yayadq.tmall.com" target="_blank">天猫旗舰店</a>
             </div>
           </div>
         </div>

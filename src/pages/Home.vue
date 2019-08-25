@@ -115,12 +115,15 @@ export default {
 }
 
 .home-ad {
-  padding: 5rem 0 2.5rem;
+  padding: 3rem 0 3rem;
 }
 
 .home-detail {
   // flex-flow: row wrap;
   // justify-content: center;
+  .columns {
+    margin-bottom: 1.5rem;
+  }
 
   .media {
     align-items: center;

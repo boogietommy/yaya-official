@@ -4,6 +4,8 @@ import router from './router/router'
 
 Vue.config.productionTip = false
 
+import '@/utils/navbar-burger.js'
+
 router.beforeResolve((to, from, next) => {
   if (to.meta.title) {
     document.title = to.meta.title

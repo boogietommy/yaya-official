@@ -6,14 +6,14 @@
             <img src="@/assets/logo-1.png" width="110" height="38">
           </a>
 
-          <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
           </a>
         </div>
 
-        <div id="navbarBasicExample" class="navbar-menu">
+        <div id="navMenu" class="navbar-menu">
           <div class="navbar-start">
             <a href="/" class="navbar-item">
               首页
@@ -23,7 +23,7 @@
               企业简介
             </a>
 
-            <a href="/product" class="navbar-item">
+            <a href="https://yayadq.tmall.com" class="navbar-item" target="_blank">
               产品展示
             </a>
 
@@ -47,7 +47,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 .navbar-start {
   flex-grow: 1;
   justify-content: center !important;
